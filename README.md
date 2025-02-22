@@ -1,0 +1,1 @@
+An application in R Shiny which allows a user to retrieve iNaturalist data by entering a URL slug (e.g. my-project). The application will generate a plot with the date on the x axis and the number of observations on the y axis. The user can also adjust how many observations from the project are visualized, starting with the most recent observation.
